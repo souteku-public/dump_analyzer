@@ -2,7 +2,7 @@
 
 ブラウザで動作する Windows クラッシュダンプ (.dmp) 解析ツールです。TouchDesigner をはじめとする Windows アプリケーションのクラッシュダンプを、WinDbg 等の専用ツールなしで解析できます。
 
-**[ツールを開く →](https://souteku-public.github.io/minidump_analyzer/)**
+**[ツールを開く →](https://souteku-public.github.io/dump_analyzer/)**
 
 ## 特徴
 
